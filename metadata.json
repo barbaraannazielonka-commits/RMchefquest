@@ -1,0 +1,6 @@
+{
+  "name": "Chef Quest: Your Journey to an International Kitchen",
+  "description": "An interactive culinary adventure and English language learning game for vocational restaurant and food processing students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
